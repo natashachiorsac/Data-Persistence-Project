@@ -1402,6 +1402,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2137539498}
     m_Modifications:
+    - target: {fileID: 6940534745785306249, guid: efcaf05958bc3421ab03b7973da3c0fc, type: 3}
+      propertyPath: m_Text
+      value: 'Best Score :  :'
+      objectReference: {fileID: 0}
     - target: {fileID: 6940534745785306294, guid: efcaf05958bc3421ab03b7973da3c0fc, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
