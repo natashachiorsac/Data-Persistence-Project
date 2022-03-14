@@ -38,9 +38,8 @@ public class BestScoreManager : MonoBehaviour
         BestScoreText.text = $"Best Score : {bestScorePlayerName} : {bestScore}";
     }
 
-    public void setPlayerName(string playerName){
-        this.playerName = playerName;
-        Debug.Log("Player name: "+ this.playerName);
+    public void setPlayerName(string nameInput){
+        playerName = nameInput;
     }
 
 }
